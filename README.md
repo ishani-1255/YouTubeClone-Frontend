@@ -13,4 +13,4 @@ https://ishani-1255.github.io/YouTubeClone-Frontend/
 **YouTube** is an American online video sharing and social media platform headquartered in San Bruno, California. It was launched on **February 14, 2005** , by **Steve Chen** , **Chad Hurley** , and **Jawed Karim** .
 
 # Screenshots
-<img src="" title="Header" alt="Header" width="1280" height=""/>&nbsp;
+<img src="https://github.com/ishani-1255/YouTubeClone-Frontend/blob/main/YouTube-Clone.png" title="Header" alt="Header" width="1280" height=""/>&nbsp;
