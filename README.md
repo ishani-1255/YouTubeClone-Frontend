@@ -2,7 +2,7 @@
 YouTube Clone made using HTML and CSS
 
 Link of the Project : <br> 
-https://ishani-1255.github.io/YouTubeClone-Frontend/
+https://youtube-clone-frontend-mocha.vercel.app/
 
 
 # Tech-Stack Used..
